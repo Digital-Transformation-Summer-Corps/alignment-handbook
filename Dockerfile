@@ -11,6 +11,7 @@ RUN apt-get update && \
         ca-certificates \
         curl \
         wget \
+        git \
         gnupg2 \
         software-properties-common \
         build-essential \
